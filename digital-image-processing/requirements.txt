@@ -1,0 +1,22 @@
+# Digital Image Processing - Python Requirements
+
+# Core Libraries
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Image Processing
+opencv-python>=4.8.0
+Pillow>=10.0.0
+scikit-image>=0.21.0
+
+# Data Visualization
+matplotlib>=3.7.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.25.0
+
+# Additional Utilities
+imageio>=2.31.0
+
+

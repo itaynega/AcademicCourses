@@ -1,0 +1,22 @@
+# MATLAB
+*.asv
+*.m~
+*.autosave
+
+# MATLAB Generated
+*.mex*
+*.mat
+slprj/
+
+# Documentation
+html/
+latex/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+
